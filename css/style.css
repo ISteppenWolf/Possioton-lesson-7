@@ -1,0 +1,102 @@
+.container{
+	width: 1000px;
+	height: 384px;
+	
+}
+
+.title-box{
+	width: 1000px;
+	height: 250px ;
+	background-color: grey;
+	display: inline-block;
+	position: fixed;
+	border:2px solid;
+	z-index: 5
+}
+
+.block{
+	float: left;
+}
+.diablo-logo{
+	width: 280px;
+	height: 280px;
+	margin-right: 35px;
+}
+.navigation-ul{
+	margin-top: 120px;
+    font-size: 30px;
+}
+a{
+	margin-right: 20px;
+	color: #6E0203
+}
+
+.container-a{
+	width: 1000px;
+
+}
+
+.division-a{
+	position: relative;
+
+}
+
+.diablo-a{
+	width: 1000px;
+
+}
+
+.baberian{
+	width: 280px;
+	height:180px;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+.demon{
+	width: 280px;
+	height:180px;
+	position: absolute;
+	top: 0;
+	right: 0;
+}
+.necro{
+	width: 280px;
+	height:180px;
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	margin-bottom: 5px;
+}
+.witch{
+	width: 280px;
+	height:180px;
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	margin-bottom: 10px;
+}
+
+.division-b{
+	width: 1000px;
+	margin-top: 20px;
+	border: 3px solid;
+}
+
+.mal{
+	width: 280px;
+	height:180px;
+	float: right;
+	padding: 15px;
+}
+
+.para-b{
+	
+	padding: 15px;
+	
+}
+
+.meph{
+	margin-left: 13px;
+}
